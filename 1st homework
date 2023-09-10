@@ -1,0 +1,22 @@
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ lsb_release
+No LSB modules are available.
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ yum whatprovides lsb_release
+Command 'yum' not found, did you mean:
+  command 'sum' from deb coreutils (8.32-4.1ubuntu1)
+Try: sudo apt install <deb name>
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ yun install redhat-lsb-core
+yun: command not found
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ lsb_release
+No LSB modules are available.
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ Distributor ID:Ubuntu
+Distributor: command not found
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ Description:Ubuntu 22.04.3 LTS
+Description:Ubuntu: command not found
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ Release:22.04
+Release:22.04: command not found
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ Codename:jammy
+Codename:jammy: command not found
+user@user-HP-Laptop-15-ra0xx:~/Desktop$ 
