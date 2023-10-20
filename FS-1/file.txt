@@ -1,0 +1,12 @@
+helloo  GNU nano 6.2                                                       file.txt *                                                               
+helloohellohelllooooeeeggyyytyyyyyyyyyyyyyyyyyyyyyyyyyyhelloooooooooooooheeeeeeeeeellllooooooooooooooooooooooohello
+helloo  GNU nano 6.2                                                       file.txt *                                                        >
+helloohellohelllooooeeeggyyytyyyyyyyyyyyyyyyyyyyyyyyyyyhelloooooooooooooheeeeeeeeeellllooooooooooooooooooooooohello
+helloo  GNU nano 6.2                                                       file.txt *                                                        >
+helloohellohelllooooeeeggyyytyyyyyyyyyyyyyyyyyyyyyyyyyyhelloooooooooooooheeeeeeeeeellllooooooooooooooooooooooohello
+helloo  GNU nano 6.2                                                       file.txt *                                                        >
+helloohellohelllooooeeeggyyytyyyyyyyyyyyyyyyyyyyyyyyyyyhelloooooooooooooheeeeeeeeeellllooooooooooooooooooooooohello
+helloo  GNU nano 6.2                                                       file.txt *                                                        >
+helloohellohelllooooeeeggyyytyyyyyyyyyyyyyyyyyyyyyyyyyyhelloooooooooooooheeeeeeeeeellllooooooooooooooooooooooohello
+
+
