@@ -1,4 +1,4 @@
-g#include <iostream>
+#include <iostream>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -108,9 +108,4 @@ g#include <iostream>
    {
     std::cerr << strerror(errno) << std::endl;
     exit(errno);
-   }
-
-   return 0;
-
- }
- 
+   }  
