@@ -25,7 +25,11 @@ auto start = std::chrono::high_resolution_clock::now();
  int second_process = execvp(argv[0],argv);
 
  //checking
+<<<<<<< HEAD
  if(second_process == -1){
+=======
+ if(second_process < 0){
+>>>>>>> d346a8113196894981d701c8867e168de28fa401
    std::cerr << strerror(errno) << std::endl;
    exit(errno);
   }
@@ -44,9 +48,15 @@ auto start = std::chrono::high_resolution_clock::now();
     
     //make duration
      auto duration = std::chrono::duration_cast<std::chrono::milliseconds>(end-start).count();
+<<<<<<< HEAD
     std::cout<<duration<<std::endl;
     if(WEXITSTATUS(pidStatus)){
     std::cout<< WEXITSTATUS(pidStatus)<<std::endl;
+=======
+    std::cout << duration << std::endl;
+    if(WEXITSTATUS(pidStatus)){
+    std::cout << WEXITSTATUS(pidStatus) << std::endl;
+>>>>>>> d346a8113196894981d701c8867e168de28fa401
 
  }
  }
